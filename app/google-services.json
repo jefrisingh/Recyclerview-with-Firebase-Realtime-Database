@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "254705280175",
+    "firebase_url": "https://fir-dataonrecyclerview.firebaseio.com",
+    "project_id": "fir-dataonrecyclerview",
+    "storage_bucket": "fir-dataonrecyclerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254705280175:android:dfdc9349ebbb2927",
+        "android_client_info": {
+          "package_name": "sundar.ellalan.recyclerview_with_firebase_realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254705280175-07d82rg6d8mmcp84l0r4rbjl6cqqd31n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGfsJoLaXIx0xtOsjbyai7ORJ6e3hXYGk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
